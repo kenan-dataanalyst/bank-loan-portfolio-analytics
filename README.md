@@ -52,6 +52,7 @@ Datanı alətlər arasında daşıyarkən real problemlərlə qarşılaşıldı 
 - Mətn kimi export olunan tarixlər, aya görə qruplaşdırılmadan əvvəl `DATEVALUE` / Power Query tip çevrilməsi tələb etdi.
 - Mənbə datasındakı `.` onluq ayırıcısı ilə cədvəlin `,` onluq parametri arasındakı uyğunsuzluq `SUM()` funksiyasının kəsirli ədədlər üçün səssizcə 0 qaytarmasına səbəb oldu — `NUMBERVALUE()` ilə düzəldildi.
 ![Dashboard Preview](SharedScreenshot.jpg)
+![Dashboard Preview](ShaaredScreenshot.jpg)
 ## Müəllif
 
 Kenan Qurayishov — [LinkedIn](www.linkedin.com/in/kənan-qurayışov) · [GitHub](https://github.com/kenan-dataanalyst)
