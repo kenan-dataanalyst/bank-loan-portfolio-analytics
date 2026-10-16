@@ -16,7 +16,7 @@ Regional bir bank öz kredit portfelini anlamaq istəyir: portfel filiallar üzr
 |---|---|
 | **Oracle SQL** | Sxem dizaynı, sintetik data generasiyası, çox cədvəlli JOIN-lər, window function-lu CTE, təkrar istifadə olunan VIEW, parametrli PL/SQL stored procedure |
 | **Excel** | Xam datanın yerləşdirilməsi, `XLOOKUP` ilə zənginləşdirilmiş analiz cədvəli, KPI icmalı, PivotTable-lar və aylıq trend qrafiki |
-| **Power BI** | Oracle-a birbaşa qoşulan, KPI kartları, filial/seqment slicer-ləri və aylıq trend xətti olan bir səhifəlik interaktiv dashboard |![Dashboard Preview](ShaaredScreenshot.jpg) | ![Dashboard Preview](ShaaredScreenshot.jpg)
+| **Power BI** | Oracle-a birbaşa qoşulan, KPI kartları, filial/seqment slicer-ləri və aylıq trend xətti olan bir səhifəlik interaktiv dashboard | ![Dashboard Preview](SharedScreenshot.jpg)
 
 ## Repo strukturu
 
