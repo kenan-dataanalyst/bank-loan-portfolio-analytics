@@ -16,7 +16,7 @@ Regional bir bank öz kredit portfelini anlamaq istəyir: portfel filiallar üzr
 |---|---|
 | **Oracle SQL** | Sxem dizaynı, sintetik data generasiyası, çox cədvəlli JOIN-lər, window function-lu CTE, təkrar istifadə olunan VIEW, parametrli PL/SQL stored procedure |
 | **Excel** | Xam datanın yerləşdirilməsi, `XLOOKUP` ilə zənginləşdirilmiş analiz cədvəli, KPI icmalı, PivotTable-lar və aylıq trend qrafiki |
-| **Power BI** | Oracle-a birbaşa qoşulan, KPI kartları, filial/seqment slicer-ləri və aylıq trend xətti olan bir səhifəlik interaktiv dashboard | ![Dashboard Preview](SharedScreenshot.jpg)
+| **Power BI** | Oracle-a birbaşa qoşulan, KPI kartları, filial/seqment slicer-ləri və aylıq trend xətti olan bir səhifəlik interaktiv dashboard |
 
 ## Repo strukturu
 
@@ -51,7 +51,7 @@ bank-loan-portfolio-analytics/
 Datanı alətlər arasında daşıyarkən real problemlərlə qarşılaşıldı və həll edildi:
 - Mətn kimi export olunan tarixlər, aya görə qruplaşdırılmadan əvvəl `DATEVALUE` / Power Query tip çevrilməsi tələb etdi.
 - Mənbə datasındakı `.` onluq ayırıcısı ilə cədvəlin `,` onluq parametri arasındakı uyğunsuzluq `SUM()` funksiyasının kəsirli ədədlər üçün səssizcə 0 qaytarmasına səbəb oldu — `NUMBERVALUE()` ilə düzəldildi.
-
+![Dashboard Preview](SharedScreenshot.jpg)
 ## Müəllif
 
 Kenan Qurayishov — [LinkedIn](www.linkedin.com/in/kənan-qurayışov) · [GitHub](https://github.com/kenan-dataanalyst)
